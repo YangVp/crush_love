@@ -6,5 +6,5 @@ const CONFIGDATA = {
   buttonNo: "Không đồng ý",
   titleModar: "Cảm ơn em.",
   descriptionModar:
-    "Vậy hẹn em 7h tối nay nhé. Em không cần mang mũ đâu, anh đi ô tô.",
+    "Vậy hẹn em 8h tối nay nhé. Em không cần đi xe , anh đón.",
 };
